@@ -162,3 +162,16 @@ footer {
 .nav {
     animation: fadeIn 2s;
 }
+
+
+.mi-div {
+    margin-top: 20px; /* Margen superior */
+    margin-right: 20px; /* Margen derecho */
+    margin-bottom: 20px; /* Margen inferior */
+    margin-left: 20px; /* Margen izquierdo */
+  }
+
+.text-center{
+    text-align: center;
+}
+  
